@@ -11,4 +11,6 @@ A brief description of the files and folders:
 * `iris_simple_example.ipynb` - tutorial showing how to use `cleanlab` on the simple IRIS dataset.
 * `model_selection_demo.ipynb` - tutorial showing model selection on the cleanlab's parameter settings.
 * `simplifying_confident_learning_tutorial.ipynb` - tutorial implementing cleanlab as raw numpy code.
+
+上面这个.ipynb 文件使用 numpy 作为工具，实现了confident learning，这是一个入cleanlab门的好工具。并且我在 **simplifying_confident_learning_tutorial.py** 增加了相关注释，可供大家阅读代码时进行理解。
 * `visualizing_confident_learning.ipynb` - tutorial to demonstrate the noise matrix estimation performed by cleanlab.
